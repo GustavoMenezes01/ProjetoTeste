@@ -6,6 +6,8 @@ public class Gustavo {
 		// TODO Auto-generated method stub
 			
 		System.out.println("Eu sou Gustavo");
+		
+		System.out.println("Gustavo!");
 	}
 
 }
